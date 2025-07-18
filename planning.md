@@ -1,7 +1,6 @@
 # Planning
 
 ### Extra
-- Footer: &copy; 2025 Adriana Zambrano. All rights reserved. (fix spacing)
 - Gradient bkgds
 - Typing animation
 - Uncrypting animation
