@@ -8,3 +8,28 @@
     <br><br>
     <img src="https://hackatime-badge.hackclub.com/U07DMCJTB8Q/aszm101" alt="Hackatime Badge">
 </div>
+
+## Local Development
+
+### Prerequisites
+
+- A modern web browser
+
+- A code editor
+
+### How to Run
+
+1. Open a terminal
+
+2. Clone this repository with Git:
+
+    ```bash
+    git clone https://github.com/ASZM101/aszm101.github.io.git
+    cd aszm101.github.io.git
+    ```
+
+3. Open your file explorer
+
+4. Navigate to the `aszm101.github.io` directory
+
+5. Open `index.html` in your browser
