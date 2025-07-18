@@ -1,6 +1,7 @@
 # Planning
 
 ### Extra
+- Version of entire website in Spanish
 - Gradient bkgds
 - Typing animation
 - Uncrypting animation
@@ -59,7 +60,8 @@ Explain each event
 - Embed top videos
 
 ## Contact
-- Icons for each one
+- Tally form
+- Icons for each form of communication below
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adrianazambrano2009)
 - Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon sends alert and automatically copies username)
