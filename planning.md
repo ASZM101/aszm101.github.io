@@ -1,35 +1,35 @@
 # Planning
 
 ### Extra
-- Footer: &copy; 2025 Adriana Zambrano. All rights reserved.
+- Footer: &copy; 2025 Adriana Zambrano. All rights reserved. (fix spacing)
 - Gradient bkgds
 - Typing animation
 - Uncrypting animation
 - Terminal appearance
 
 ## About
-- Technical experience
-    - ACCO fundraiser
-    - CRJH orchestra website
-    - STEME internship
-        - Website Manager
-        - Ambassador (Trinity Academics, chess club)
-        - Data Analyst
-        - Programmer
-    - KWK camps
-        - Web dev: iGEN
-        - App dev: iBudget
-        - DS: EduStats
-- Musical experience
-    - YOLA Symphony 2025
-    - HPS Carnegie Hall 2025
-    - CRHS varsity orchestra, Midwest
-    - ESTX Chamber principal violist, teaching artist
-- Extracurriculars
-    - Rice Tapia STEM camp 2024 (scholarship, two 2nd place trophies)
-    - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
-    - GWC: Co-president
-    - XC/track (long-distance)
+
+### Technical experience
+- STEME internship
+    - Website Manager
+    - Ambassador (Trinity Academics, chess club)
+    - Data Analyst
+    - Programmer
+- KWK camps
+    - Web dev: iGEN
+    - App dev: iBudget
+    - DS: EduStats
+
+### Musical experience
+- YOLA Symphony 2025
+- HPS Carnegie Hall 2025
+- CRHS varsity orchestra, Midwest
+- ESTX Chamber principal violist, teaching artist
+
+### Extracurriculars
+- TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
+- GWC: Co-president
+- XC/track (long-distance)
 
 ## Projects
 
@@ -68,3 +68,4 @@ Explain each event
 
 ## Resume
 - Open new tab with PDF of resume
+- Use latest resume version
