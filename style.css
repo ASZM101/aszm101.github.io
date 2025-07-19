@@ -169,7 +169,7 @@ body, html {
     padding: 0px;
     min-height: 100%;
     width: 100%;
-    /* overflow: hidden; */
+    overscroll-behavior: none;
 }
 
 body, h1, h2, h3, h4, p, a, button, input, select, textarea, b, i {
@@ -207,11 +207,6 @@ input, select, textarea {
 label, input {
     margin: 5px 0px;
 }
-
-/* main, iframe.full {
-    overflow: scroll;
-    -webkit-overflow-scrolling: touch;
-} */
 
 ul, ol {
     margin: 0;
