@@ -32,7 +32,7 @@
 
 body {
     line-height: 1.75;
-    background-image: linear-gradient(#FF55D2, #A454FF);
+    background-image: linear-gradient(to bottom right, #FF55D2, #A454FF);
 }
 
 button {
@@ -63,7 +63,7 @@ details {
 
 h1 {
     font-size: 32px;
-    padding-top: 60px;
+    padding-top: 90px;
     margin: 22px 0px;
 }
 
@@ -81,9 +81,9 @@ header {
     right: 0;
     z-index: 900;
     padding: 1rem 1rem 0 1rem;
-    background-image: linear-gradient(white, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0));
+    background-image: linear-gradient(white, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0));
     width: 100%;
-    height: 70px;
+    height: 80px;
 }
 
 header > * {
@@ -92,14 +92,14 @@ header > * {
 }
 
 header img {
-    height: 40px;
+    height: 35px;
     opacity: 0.7;
     transition: all 0.3s;
 }
 
 header img:hover {
     opacity: 1;
-    transform: scale(1.1);
+    transform: scale(1.2);
     transition: all 0.3s;
 }
 
@@ -126,7 +126,7 @@ nav {
 }
 
 nav > * {
-    margin-left: 15px;
+    margin-left: 12px;
 }
 
 section {
