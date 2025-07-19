@@ -181,6 +181,22 @@ ul, ol {
 
 /*** CLASSES ***/
 
+button.inline {
+    box-shadow: none;
+    cursor: default;
+    padding: 5px 20px;
+    font-size: 14px;
+    margin: 0;
+}
+
+button.inline:hover {
+    transform: none;
+}
+
+div.li img.inline.line-start {
+    width: 30px !important;
+}
+
 iframe.custom {
     margin: 20px 0px;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
@@ -188,6 +204,25 @@ iframe.custom {
     min-height: 300px;
     border: none;
     border-radius: 12px;
+}
+
+img.inline {
+    height: 30px;
+    object-fit: contain;
+}
+
+img.inline.line-start {
+    margin: 0 5px 0 0 !important;
+}
+
+small img.inline, button.inline img {
+    height: 24px;
+}
+
+.inline {
+    display: inline;
+    margin: 0px 5px !important;
+    vertical-align: middle;
 }
 
 /*** IDS ***/
