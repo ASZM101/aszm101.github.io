@@ -58,7 +58,7 @@ button:hover {
 }
 
 button:active {
-    color: black;
+    background-color: #FDC4FD;
     transition: all 0.3s;
 }
 
