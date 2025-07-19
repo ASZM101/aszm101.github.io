@@ -1,8 +1,14 @@
 # Planning
 
 ### Extra
+- Gradient bkgds, auto detect system preferences
+    - Light mode (start here)
+        - Primary: pink hues
+        - Secondary: lilac hues
+    - Dark mode
+        - Primary: esmerald hues
+        - Secondary: royal blue hes
 - Version of entire website in Spanish
-- Gradient bkgds
 - Typing animation
 - Uncrypting animation
 - Terminal-like appearance
