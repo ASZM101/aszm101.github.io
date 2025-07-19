@@ -280,17 +280,21 @@ img.external-icon {
     height: 15px !important;
 }
 
+img.copy-icon {
+    height: 20px !important;
+}
+
 img.inline {
     height: 30px;
     object-fit: contain;
 }
 
 img.inline.line-start {
-    margin: 0 10px 0 0 !important;
+    margin: 0 20px 0 0 !important;
 }
 
 img.inline.line-end {
-    margin: 0 0 0 10px !important;
+    margin: 0 0 0 20px !important;
 }
 
 p.btn {

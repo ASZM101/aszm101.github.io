@@ -76,7 +76,7 @@ Explain each event
 - Embed top videos invidually
 
 ## Contact (envelope)
-Add logo and external link icon to each one
+Add logo and external link icon to each one, reorder
 - [Tally](https://tally.so/r/w77pK2) form, maybe add btn to open/close, though still open on page load
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adrianazambrano2009)
