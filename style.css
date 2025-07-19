@@ -324,10 +324,17 @@ small img.inline, button.inline img {
     margin: auto;
 } */
 
+#contact-form {
+    display: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 900;
+}
+
 #nav-logo {
     left: 20px;
 }
 
-#nav-logo img {
+#nav-logo img, #contact-form {
     height: 50px;
 }
