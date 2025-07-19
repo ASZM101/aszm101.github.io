@@ -244,6 +244,8 @@ button.inline:hover {
 }
 
 div.btn {
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -293,6 +295,8 @@ img.inline.line-end {
 
 p.btn {
     color: black;
+    padding: 0;
+    margin: 0;
 }
 
 small img.inline, button.inline img {
