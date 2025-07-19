@@ -44,8 +44,9 @@ document.querySelectorAll('button.var-icon').forEach(btn => {
 
 /*** COPY BUTTONS ***/
 document.querySelector('button.discord').addEventListener('click', (e) => {
-    const username = document.getElementById('discord-username');
+    const username = document.querySelector('#discord-username');
     username.select();
+    navigator.clipboard.writeText(username.value);
     document.execCommand('copy');
-    alert('Copied to clipboard!');
+    alert(`Copied Discord username: ${username.value}`);
 })
