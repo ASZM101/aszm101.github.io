@@ -60,12 +60,13 @@ Explain each event
 - Embed top videos
 
 ## Contact
-- Tally form
+- [Tally](https://tally.so/r/w77pK2) form
 - Icons for each form of communication below
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adrianazambrano2009)
 - Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon sends alert and automatically copies username)
 - [GitHub](https://github.com/aszm101)
+- [Cal.com](https://cal.com/adriana-zambrano-pyke96)
 
 ## Resume
 - Open new tab with PDF of resume

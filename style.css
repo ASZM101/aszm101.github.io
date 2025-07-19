@@ -97,7 +97,7 @@ header {
     height: 70px;
 }
 
-iframe {
+iframe.custom {
     margin: 20px 0px;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
     width: 100%;
