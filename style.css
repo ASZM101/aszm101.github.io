@@ -54,11 +54,12 @@ details {
     padding: 10px 30px 0px 30px;
 }
 
-footer {
+/* Saving for later */
+/* footer {
     display: flex;
     padding: 20px 10px;
     margin: 0px;
-}
+} */
 
 h1 {
     font-size: 32px;
@@ -80,7 +81,8 @@ header {
     right: 0;
     z-index: 900;
     padding: 1rem 1rem 0 1rem;
-    background-image: linear-gradient(white, white, white, rgba(255, 255, 255, 0)); /* Saving for gradient bkgds later */
+    /* Saving for gradient bkgds later */
+    /* background-image: linear-gradient(white, white, white, rgba(255, 255, 255, 0)); */
     width: 100%;
     height: 70px;
 }
@@ -232,7 +234,7 @@ div.li img.inline.line-start {
 
 iframe.full {
     width: 100vw;
-    height: calc(100% - 230px);
+    height: calc(100% - 160px);
     border: none;
     margin: 0;
 }
@@ -267,9 +269,10 @@ small img.inline, button.inline img {
 
 /*** IDS ***/
 
-#copyright {
+/* Saving for later */
+/* #copyright {
     margin: auto;
-}
+} */
 
 #nav-logo {
     left: 20px;
