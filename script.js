@@ -1,6 +1,6 @@
 /*** HEADER ***/
 document.querySelector('header').innerHTML = `
-    <a href="index.html" id="nav-logo"><img src="assets/img/logo.png" alt="Logo" title="Home"></a>
+    <a href="index.html" id="nav-logo"><img src="assets/img/logo-shadow.png" alt="Logo" title="Home"></a>
     <nav>
         <a href="projects.html"><img src="assets/img/projects.png" alt="Light bulb" title="Projects"></a>
         <a href="articles.html"><img src="assets/img/articles.png" alt="Paper and pencil" title="Articles"></a>
