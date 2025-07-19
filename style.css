@@ -35,7 +35,6 @@ body {
     padding: 0;
     line-height: 1.75;
     background-color: white;
-    width: 100vw;
 }
 
 button {
@@ -53,20 +52,13 @@ button:active {
     transition: all 0.3s;
 }
 
-button:hover, div.card:hover {
-    box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-    transform: scale(1.05);
-    transition: all 0.3s;
-}
-
 details {
     padding: 10px 30px 0px 30px;
 }
 
 footer {
     display: flex;
-    padding: 100px 10px 20px 10px;
+    padding: 20px 10px;
 }
 
 h1 {
@@ -80,10 +72,6 @@ h2 {
 
 h3 {
     font-size: 20px;
-}
-
-h4, p, b, i, input, textarea, select, label, button {
-    font-size: 16px;
 }
 
 header {
@@ -126,7 +114,7 @@ main {
     padding: 0 2rem 2rem 2rem;
     max-width: 800px;
     margin: 0 auto;
-    min-height: 100vh;
+    height: calc(100vh - 247px);
 }
 
 nav {
@@ -167,12 +155,29 @@ video {
     background: black;
 }
 
+body, html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
 body, h1, h2, h3, h4, p, a, button, input, select, textarea, b, i {
     font-family: 'Poppins', BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+button:hover, div.card:hover {
+    box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
+
 h1, h2, h3, h4, button, p.center, small.center {
     text-align: center;
+}
+
+h4, p, b, i, input, textarea, select, label, button {
+    font-size: 16px;
 }
 
 input, select {
@@ -190,6 +195,11 @@ input, select, textarea {
 
 label, input {
     margin: 5px 0px;
+}
+
+main, iframe.full {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 ul, ol {
@@ -216,7 +226,7 @@ div.li img.inline.line-start {
 
 iframe.full {
     width: 100vw;
-    height: 100vh;
+    height: calc(100vh - 215px);
     border: none;
     margin: 0;
 }
