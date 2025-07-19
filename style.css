@@ -205,7 +205,7 @@ label, input {
 }
 
 main, iframe.full {
-    height: calc(100% - 196px);
+    height: calc(100% - 160px);
     overflow: auto;
     -webkit-overflow-scrolling: touch;
 }
