@@ -64,13 +64,13 @@ Explain each event
 - CRJH orchestra website (update first)
 - ByBrandt (once MVP done)
 
-## Articles (paper)
+## ✅ Articles (paper)
 - Add Medium logo and external link icon
 - [Medium](https://medium.com/@aszm), with CTA to follow for new articles
 - Add some/all articles
 - Need to manually create "embed"
 
-## ❓ Videos (camera)
+## ❓✅ Videos (camera)
 - Add YouTube logo and external link icon
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
 - Embed top videos invidually
