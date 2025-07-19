@@ -119,6 +119,7 @@ main {
     padding: 0 2rem 2rem 2rem;
     max-width: 800px;
     margin: 0 auto;
+    min-height: 100vh;
 }
 
 nav {
@@ -168,7 +169,7 @@ body, html {
     padding: 0px;
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 body, h1, h2, h3, h4, p, a, button, input, select, textarea, b, i {
@@ -207,11 +208,10 @@ label, input {
     margin: 5px 0px;
 }
 
-main, iframe.full {
-    height: calc(100% - 160px);
-    overflow: auto;
+/* main, iframe.full {
+    overflow: scroll;
     -webkit-overflow-scrolling: touch;
-}
+} */
 
 ul, ol {
     margin: 0;
@@ -239,13 +239,14 @@ iframe.full {
     width: 100vw;
     border: none;
     margin: 0;
+    height: calc(100% - 160px);
 }
 
 iframe.round {
     margin: 20px 0px;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
     width: 100%;
-    min-height: 300px;
+    height: calc(100vh - 250px);
     border: none;
     border-radius: 12px;
 }
