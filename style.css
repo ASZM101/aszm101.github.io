@@ -214,7 +214,14 @@ div.li img.inline.line-start {
     width: 30px !important;
 }
 
-iframe.custom {
+iframe.full {
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    margin: 0;
+}
+
+iframe.round {
     margin: 20px 0px;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
     width: 100%;
