@@ -1,6 +1,7 @@
 # Planning
 
 ### Extra
+- Make all btns in each btn group the same size, maybe diff for each group
 - Figure out how to make a tag as large as its child while keeping side margin auto
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
@@ -82,6 +83,8 @@ Add logo and external link icon to each one
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
 - Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon triggers alert and automatically copies username)
+
+<img class="inline line-start" src="assets/img/lifeHacks.png" alt="Life hacks button" title="Life hacks button"> Life Hacks
 
 ## ✅ Resume (briefcase)
 - Embed PDF of resume

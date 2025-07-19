@@ -273,7 +273,7 @@ img.inline {
 }
 
 img.inline.line-start {
-    margin: 0 5px 0 0 !important;
+    margin: 0 10px 0 0 !important;
 }
 
 small img.inline, button.inline img {
