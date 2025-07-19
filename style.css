@@ -30,6 +30,10 @@
 
 /*** TAGS ***/
 
+a {
+    text-decoration: none;
+}
+
 body {
     line-height: 1.75;
     background-image: linear-gradient(to bottom right, #FF55D2, #A454FF);
@@ -37,7 +41,7 @@ body {
 
 button {
     display: block;
-    margin: 10px auto;
+    margin: 20px auto;
     padding: 10px 20px;
     border-radius: 40px;
     background-color: #FDC4FD;
@@ -163,11 +167,14 @@ textarea {
     resize: vertical;
 }
 
-video {
+video, section.video iframe {
+    display: block;
     width: 100%;
-    margin: 20px auto;
+    height: 315px;
+    margin: 50px auto;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
     border-radius: 12px;
+    border: none;
     background: black;
 }
 
@@ -188,7 +195,7 @@ body, h1, h2, h3, h4, p, b, i {
 }
 
 button:hover, div.card:hover {
-    box-shadow: 3px 4px 3px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 4px 3px 2px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
     transition: all 0.3s;
 }

@@ -1,6 +1,7 @@
 # Planning
 
 ### Extra
+- Figure out how to make a tag as large as its child while keeping side margin auto
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
         - Primary: pink hues
@@ -56,25 +57,31 @@ Explain each event
 - Shipwrecked 2025
     - Everythingville
     - Playwright scrapers
-    - Memory Matching
+    - Memory Matching (once MVP done)
+
+### ❌ (later) Miscellaneous
+- CRJH orchestra website (update first)
+- ByBrandt (once MVP done)
 
 ## Articles (paper)
+- Add Medium logo and external link icon
 - [Medium](https://medium.com/@aszm), with CTA to follow for new articles
 - Add some/all articles
 - Need to manually create "embed"
 
-## Videos (camera)
+## ❓ Videos (camera)
+- Add YouTube logo and external link icon
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
 - Embed top videos invidually
 
 ## Contact (envelope)
-- [Tally](https://tally.so/r/w77pK2) form
-- Icons for each form of communication below
+Add logo and external link icon to each one
+- [Tally](https://tally.so/r/w77pK2) form, maybe add btn to open/close, though still open on page load
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adrianazambrano2009)
-- Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon sends alert and automatically copies username)
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
+- Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon triggers alert and automatically copies username)
 
 ## ✅ Resume (briefcase)
 - Embed PDF of resume
