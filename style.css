@@ -200,7 +200,7 @@ button:hover, div.card:hover {
     transition: all 0.3s;
 }
 
-h1, h2, h3, h4, button, p.center, small.center {
+h1, h2, h3, h4, button, p.center, small.center, p.btn {
     text-align: center;
 }
 
@@ -243,6 +243,13 @@ button.inline:hover {
     transform: none;
 }
 
+div.btn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 div.li img.inline.line-start {
     width: 30px !important;
 }
@@ -282,6 +289,10 @@ img.inline.line-start {
 
 img.inline.line-end {
     margin: 0 0 0 10px !important;
+}
+
+p.btn {
+    color: black;
 }
 
 small img.inline, button.inline img {
