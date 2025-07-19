@@ -36,18 +36,25 @@ body {
 }
 
 button {
+    display: block;
     margin: 10px auto;
     padding: 10px 20px;
     border-radius: 40px;
-    background-color: #E98CDF;
+    background-color: #FDC4FD;
     border: none;
     color: black;
     transition: all 0.3s;
 }
 
 button:active {
-    color: white;
+    color: black;
     transition: all 0.3s;
+}
+
+button:hover {
+    background-color: #B80087;
+    color: white;
+    cursor: pointer;
 }
 
 details {
@@ -175,9 +182,12 @@ body, h1, h2, h3, h4, p, a, button, input, select, textarea, b, i {
     font-family: 'Poppins', BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+body, h1, h2, h3, h4, p, b, i {
+    color: white;
+}
+
 button:hover, div.card:hover {
-    box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
+    box-shadow: 3px 4px 3px 2px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
     transition: all 0.3s;
 }
@@ -193,7 +203,6 @@ h4, p, b, i, input, textarea, select, label, button {
 input, select {
     width: 100%;
     padding: 8px;
-    color: black;
     background-color: white;
 }
 
@@ -201,6 +210,7 @@ input, select, textarea {
     box-shadow: 0 2px 14px rgba(0, 0, 0, 0.2);
     border: 1px solid #dddddd;
     border-radius: 10px;
+    color: black;
 }
 
 label, input {
