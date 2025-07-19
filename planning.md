@@ -9,6 +9,7 @@
 - Terminal-like interactivity
 
 ## About/Home (logo)
+Tabs for each section, use icons for now
 
 ### Technical experience
 - STEME internship
@@ -33,6 +34,7 @@
 - XC/track (long-distance)
 
 ## Projects (light bulb)
+Tabs for each section, use icons for now
 
 ### TKS
 Explain TKS/scholarship, explain context of each project
@@ -55,10 +57,11 @@ Explain each event
 ## Articles (paper)
 - [Medium](https://medium.com/@aszm), with CTA to follow for new articles
 - Add some/all articles
+- Need to manually create "embed"
 
 ## Videos (camera)
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
-- Embed top videos
+- Embed top videos invidually
 
 ## Contact (envelope)
 - [Tally](https://tally.so/r/w77pK2) form
@@ -72,3 +75,4 @@ Explain each event
 ## Resume (briefcase)
 - Open new tab with PDF of resume
 - Use latest resume version
+- Have button for downloading?
