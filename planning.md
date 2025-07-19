@@ -1,7 +1,6 @@
 # Planning
 
 ### Extra
-- Make each btn have title, not imgs
 - Make all btns in each btn group the same size, maybe diff for each group
 - Figure out how to make a tag as large as its child while keeping side margin auto
 - Gradient bkgds, auto detect system preferences
