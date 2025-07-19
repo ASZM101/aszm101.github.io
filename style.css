@@ -119,7 +119,6 @@ main {
     padding: 0 2rem 2rem 2rem;
     max-width: 800px;
     margin: 0 auto;
-    min-height: 100vh;
 }
 
 nav {
@@ -235,6 +234,10 @@ iframe.full {
     border: none;
     margin: 0;
     height: calc(100% - 160px);
+}
+
+iframe.lone {
+    margin: 0px !important;
 }
 
 iframe.round {

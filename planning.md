@@ -78,7 +78,6 @@ Explain each event
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
 
-## Resume (briefcase)
-- Open new tab with PDF of resume
+## ✅ Resume (briefcase)
+- Embed PDF of resume
 - Use latest resume version
-- Have button for downloading?
