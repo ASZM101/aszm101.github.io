@@ -17,9 +17,30 @@ document.querySelector('header').innerHTML = `
 // `;
 
 /*** VARIABLE ICONS ***/
-document.querySelector('#yt-btn').addEventListener('mouseover', () => {
-    document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-white.png';
-});
-document.querySelector('#yt-btn').addEventListener('mouseout', () => {
-    document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-black.png';
-});
+document.querySelectorAll('button.var-icon').forEach(btn => {
+    btn.addEventListener('mouseover', () => {
+        // Before mouseover (original): icon is black
+        icon = btn.querySelector('img.var-icon');
+        fullSrc = icon.src.split('/');
+        oldFile = fullSrc[fullSrc.length - 1];
+        name = oldFile.slice(0, oldFile.indexOf('-'));
+        icon.src = `assets/img/${name}-white.png`;
+        // While mouseover (on hover): icon is white
+    })
+    btn.addEventListener('mouseout', () => {
+        // Before mouseout (on hover): icon is white
+        icon = btn.querySelector('img.var-icon');
+        fullSrc = icon.src.split('/');
+        oldFile = fullSrc[fullSrc.length - 1];
+        name = oldFile.slice(0, oldFile.indexOf('-'));
+        icon.src = `assets/img/${name}-black.png`;
+        // While mouseout (original): icon is black
+    })
+})
+
+// .addEventListener('mouseover', () => {
+//     document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-white.png';
+// });
+// document.querySelector('#yt-btn').addEventListener('mouseout', () => {
+//     document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-black.png';
+// });
