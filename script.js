@@ -40,16 +40,12 @@ document.querySelectorAll('button.var-icon').forEach(btn => {
             // While mouseout (original): icon is black
         });
     });
-    // Simulating active pseudo class (not changing icon color, a bit laggy with changing text color)
-    // btn.addEventListener('click', () => {
-    //     btn.querySelector('p').style.color = 'black';
-    //     btn.querySelectorAll('img.var-icon').forEach(icon => {
-    //         // Before click: icon is white
-    //         fullSrc = icon.src.spllit('/');
-    //         oldFile = fullSrc[fullSrc.length - 1];
-    //         name = oldFile.slice(0, oldFile.indexOf('-'));
-    //         icon.src = `assets/img/${name}-black.png`;
-    //         // While click: icon is black
-    //     })
-    // });
 });
+
+/*** COPY BUTTONS ***/
+document.querySelector('button.discord').addEventListener('click', (e) => {
+    const username = document.getElementById('discord-username');
+    username.select();
+    document.execCommand('copy');
+    alert('Copied to clipboard!');
+})

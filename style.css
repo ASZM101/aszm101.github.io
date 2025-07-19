@@ -307,6 +307,10 @@ small img.inline, button.inline img {
     height: 24px;
 }
 
+.hidden {
+    display: none;
+}
+
 .inline {
     display: inline;
     margin: 0px 5px !important;
