@@ -15,3 +15,11 @@ document.querySelector('header').innerHTML = `
 // document.querySelector('footer').innerHTML = `
 //     <small id="copyright" class="center">&copy; 2025 Adriana Zambrano. All rights reserved.</small>
 // `;
+
+/*** VARIABLE ICONS ***/
+document.querySelector('#yt-btn').addEventListener('mouseover', () => {
+    document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-white.png';
+});
+document.querySelector('#yt-btn').addEventListener('mouseout', () => {
+    document.querySelector('#yt-btn img.var-icon').src = 'assets/img/external-black.png';
+});
