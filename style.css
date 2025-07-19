@@ -31,8 +31,6 @@
 /*** TAGS ***/
 
 body {
-    margin: 0;
-    padding: 0;
     line-height: 1.75;
     background-color: white;
 }
@@ -102,6 +100,10 @@ header img:hover {
     transition: all 0.3s;
 }
 
+iframe {
+    margin: 0;
+}
+
 label {
     font-weight: bold;
 }
@@ -156,6 +158,8 @@ video {
 }
 
 body, html {
+    margin: 0;
+    padding: 0;
     height: 100%;
     width: 100%;
     overflow: hidden;
@@ -226,7 +230,7 @@ div.li img.inline.line-start {
 
 iframe.full {
     width: 100vw;
-    height: calc(100vh - 215px);
+    height: calc(100% - 290.88px);
     border: none;
     margin: 0;
 }
