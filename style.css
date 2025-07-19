@@ -42,7 +42,7 @@ button {
     margin: 10px auto;
     padding: 10px 20px;
     border-radius: 40px;
-    background-color: #75d8ff;
+    background-color: #E98CDF;
     border: none;
     color: black;
     transition: all 0.3s;
@@ -99,6 +99,14 @@ header {
 
 header img {
     height: 40px;
+    opacity: 0.7;
+    transition: all 0.3s;
+}
+
+header img:hover {
+    opacity: 1;
+    transform: scale(1.1);
+    transition: all 0.3s;
 }
 
 label {
@@ -114,6 +122,12 @@ main {
     max-width: 800px;
     margin: 0 auto;
     min-height: 100vh;
+}
+
+nav {
+    position: fixed;
+    top: 20px;
+    left: 20px;
 }
 
 section {
@@ -229,18 +243,4 @@ small img.inline, button.inline img {
 
 #copyright {
     margin: auto;
-}
-
-#nav-logo {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    opacity: 0.7;
-    transition: all 0.3s;
-}
-
-#nav-logo:hover {
-    opacity: 1;
-    transform: scale(1.1);
-    transition: all 0.3s;
 }
