@@ -326,9 +326,17 @@ small img.inline, button.inline img {
 
 #contact-form {
     display: fixed;
-    right: 20px;
+    left: 20px;
     bottom: 20px;
     z-index: 900;
+    opacity: 0.7;
+    transition: all 0.3s;
+}
+
+#contact-form:hover {
+    opacity: 1;
+    transform: scale(1.2);
+    transition: all 0.3s;
 }
 
 #nav-logo {
