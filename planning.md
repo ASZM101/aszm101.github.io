@@ -5,9 +5,10 @@
 - Gradient bkgds
 - Typing animation
 - Uncrypting animation
-- Terminal appearance
+- Terminal-like appearance
+- Terminal-like interactivity
 
-## About
+## About/Home (logo)
 
 ### Technical experience
 - STEME internship
@@ -31,7 +32,7 @@
 - GWC: Co-president
 - XC/track (long-distance)
 
-## Projects
+## Projects (light bulb)
 
 ### TKS
 Explain TKS/scholarship, explain context of each project
@@ -51,15 +52,15 @@ Explain each event
     - Playwright scrapers
     - Memory Matching
 
-## Articles
+## Articles (paper)
 - [Medium](https://medium.com/@aszm), with CTA to follow for new articles
 - Add some/all articles
 
-## Videos
+## Videos (camera)
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
 - Embed top videos
 
-## Contact
+## Contact (envelope)
 - [Tally](https://tally.so/r/w77pK2) form
 - Icons for each form of communication below
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
@@ -68,6 +69,6 @@ Explain each event
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
 
-## Resume
+## Resume (briefcase)
 - Open new tab with PDF of resume
 - Use latest resume version
