@@ -4,10 +4,10 @@
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
         - Primary: pink hues
-        - Secondary: lilac hues
+        - Secondary: purple hues
     - Dark mode
-        - Primary: esmerald hues
-        - Secondary: royal blue hes
+        - Primary: green hues
+        - Secondary: blue hes
 - Version of entire website in Spanish
 - Typing animation
 - Uncrypting animation
@@ -21,8 +21,6 @@ Tabs for each section, use icons for now
 - STEME internship
     - Website Manager
     - Ambassador (Trinity Academics, chess club)
-    - Data Analyst
-    - Programmer
 - KWK camps
     - Web dev: iGEN
     - App dev: iBudget
