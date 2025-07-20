@@ -2,6 +2,8 @@
 
 ### Extra
 - Update LinkedIn/resume with any changes made to descriptions
+- Update Midwest link once URL changes to 2025 archive
+- Create website specifically for CR GWC and add to about page
 - Add personal website ("corner of the internet") to Shipwrecked projects
 - Add short paragraph with general introduction to each page
 - Make all btns in each btn group the same size, maybe diff for each group
