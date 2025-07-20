@@ -1,35 +1,66 @@
 # Planning
 
-### Extra
-- Update LinkedIn/resume with any changes made to descriptions
-- Update Midwest link once URL changes to 2025 archive
-- Create website specifically for CR GWC and add to about page
-- Add personal website ("corner of the internet") to Shipwrecked projects
-- Add short paragraph with general introduction to each page
+## Extra
+
+### General
 - Make all btns in each btn group the same size, maybe diff for each group
-- Add images to each section, possibly horizontal gallery with arrows
-- If keeping dropdowns, make summary and marker have background (card-like appearance), but not rest of details
+- Version of entire website in Spanish, add dropdown in/near header to switch between languages
+- Add short paragraph with general introduction and possibly image to each page
+- Add scrolling animation, elements appear as user scrolls
 - Make headings and bolded words diff colors
-- Gradient bkgds, auto detect system preferences
-    - Light mode (start here)
+- Auto detect system prefs for gradient bkgds
+    - Light mode
         - Primary: pink hues
         - Secondary: purple hues
     - Dark mode
         - Primary: green hues
         - Secondary: blue hues
-- Version of entire website in Spanish
-- Typing animation
-- Uncrypting animation
-- Terminal-like appearance
-- Terminal-like interactivity
+- Animations
+    - Typing animation
+    - Uncrypting animation
+    - Terminal-like appearance/interactivity
+- Updates (later)
+    - Update LinkedIn/resume with any changes made to descriptions
+    - Update Midwest link once URL changes to 2025 archive
+    - Create website specifically for CR GWC and add to about page
 
-## ✅ About/Home (logo)
+### About
+- Add icons/logos to btns
+- Add imgs to each section, possibly horizontal galleries with arrows
+- Turn dropdowns into tabs with "cards"
+
+### Projects
+- Add icons/logos to btns
+- Add imgs to each section, possibly horizontal galleries with arrows
+- Turn dropdowns into tabs with "cards"
+- Add btn-like tags for each project (progrmaming languages, interest categories)
+- If keeping dropdowns:
+    - Animate open/closing details
+    - Make summary have card-like appearance, but not rest of details
+- Miscellaneous projects:
+    - CRJH orchestra website (update first, contact Ms. Vu for udpated info)
+    - ByBrandt (once MVP English version done)
+
+### Articles
+- Make "cards" for custom Medium embeds
+- Maybe remove page from nav for now? Not sure if enough quality videos yet
+
+### Videos
+- Maybe remove page from nav for now? Not sure if enough quality videos yet
+
+#### Contact
+- Create social media accounts and add here
+
+### Resume
+- Adapt PDF emebed for mobile
+
+## ✅ MVP
+
+### ✅ About (logo)
 - Add links as btns
-- Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
-- Add icons/logos/images
 - Add headshot
 
-### ✅ Technical experience
+#### ✅ Technical experience
 - STEME internship
     - Website
     - Programming
@@ -39,29 +70,26 @@
     - App dev: iBudget
     - Data: EduStats
 
-### ✅ Musical experience
+#### ✅ Musical experience
 - YOLA Symphony 2025
 - HPS Carnegie Hall 2025
 - CRHS varsity orchestra, Midwest
 - ESTX Chamber principal violist, teaching artist
 
-### ✅ Extracurriculars
+#### ✅ Extracurriculars
 - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
 - GWC: Co-president
 
-## ✅ Projects (light bulb)
-- Add links as btns
-- Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
-- Add icons/logos/images
-- Add tags (tech type, programming lang, interest categories) to each projects, better for when dropdowns turned into cards
+### ✅ Projects (light bulb)
+Add links as btns
 
-### ✅ TKS
+#### ✅ TKS
 Explain TKS/scholarship, explain context of each project
 - AI focus
 - Moonshot project
 - Maverick challenge
 
-### ✅ Hackathons
+#### ✅ Hackathons
 Provide description for each hackathon and project
 - Shipwrecked 2025
     - Everythingville
@@ -70,31 +98,26 @@ Provide description for each hackathon and project
 - Ascend 2024: Mechazilla the Game
 - TAMUhack 2024: Financy
 
-### ❌ (later) Miscellaneous
-- CRJH orchestra website (update first)
-- ByBrandt (once MVP done)
-
-## ✅ Articles (paper)
+### ✅ Articles (paper)
 - Add Medium logo and external link icon
 - [Medium](https://medium.com/@aszm), with CTA to follow for new articles
 - Add some/all articles
 - Need to manually create "embed"
 
-## ❓✅ Videos (camera)
+### ✅ Videos (camera)
 - Add YouTube logo and external link icon
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
 - Embed top videos invidually
 
-## ✅ Contact (envelope)
-Add logo and external link icon to each one, reorder
-- [Tally](https://tally.so/r/w77pK2) form, maybe add btn to open/close, though still open on page load
+### ✅ Contact (envelope)
+Add logo and external link icon to each one
+- [Tally](https://tally.so/r/w77pK2) form, btn to open/close, though still open on page load
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adrianazambrano2009)
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
-- Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon triggers alert and automatically copies username)
+- Discord: adriana_z. (clicking on btn triggers alert and automatically copies username)
 
-## ✅ Resume (briefcase)
+### ✅ Resume (briefcase)
 - Embed PDF of resume
 - Use latest resume version
-- Adapt PDF embed for mobile (later)

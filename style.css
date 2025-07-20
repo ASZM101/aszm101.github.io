@@ -378,6 +378,14 @@ small img.inline, button.inline img {
     transition: 0.3s;
 }
 
+#headshot {
+    display: block;
+    margin: 25px auto;
+    width: 200px;
+    border-radius: 50px;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
 #nav-logo {
     left: 20px;
 }
