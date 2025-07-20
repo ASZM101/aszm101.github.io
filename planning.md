@@ -2,8 +2,10 @@
 
 ### Extra
 - Update LinkedIn/resume with any changes made to descriptions
+- Add personal website ("corner of the internet") to Shipwrecked projects
 - Add short paragraph with general introduction to each page
 - Make all btns in each btn group the same size, maybe diff for each group
+- Add images to each section, possibly horizontal gallery with arrows
 - If keeping dropdowns, make summary and marker have background (card-like appearance), but not rest of details
 - Make headings and bolded words diff colors
 - Gradient bkgds, auto detect system preferences
