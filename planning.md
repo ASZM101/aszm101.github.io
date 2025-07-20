@@ -55,13 +55,12 @@ Explain TKS/scholarship, explain context of each project
 
 ### Hackathons
 Explain each event
-- Estée Lauder 2023 challenge: Nutritious finalist (top 4)
-- TAMUhack 2024: Financy
-- Ascend 2024: Mechazilla the Game
 - Shipwrecked 2025
     - Everythingville
-    - Playwright scrapers
+    - Playwright Scrapers
     - Memory Matching (once MVP done)
+- Ascend 2024: Mechazilla the Game
+- TAMUhack 2024: Financy
 
 ### ❌ (later) Miscellaneous
 - CRJH orchestra website (update first)
