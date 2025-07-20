@@ -342,7 +342,6 @@ small img.inline, button.inline img {
     border-radius: 0px;
     background: none;
     box-shadow: none;
-    transition: all 0.3s;
 }
 
 #contact-form img {
@@ -355,6 +354,7 @@ small img.inline, button.inline img {
 
 #contact-form img:hover {
     opacity: 1;
+    cursor: pointer;
     transform: scale(1.2);
     transition: 0.3s;
 }
