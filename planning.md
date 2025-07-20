@@ -18,10 +18,11 @@
 ## About/Home (logo)
 Tabs for each section, use icons for now, add headshot
 
-### Technical experience
+### ✅ Technical experience
 - STEME internship
     - Website Manager
-    - Ambassador (Trinity Academics, chess club)
+    - Programmer
+    - Data Analyst
 - KWK camps
     - Web dev: iGEN
     - App dev: iBudget
