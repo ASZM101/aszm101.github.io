@@ -2,6 +2,7 @@
 
 ### Extra
 - Update LinkedIn/resume with any changes made to descriptions
+- Add short paragraph with general introduction to each page
 - If keeping dropdowns, find way to make cursor pointer on hover
 - Make all btns in each btn group the same size, maybe diff for each group
 - Make headings and bolded words diff colors
