@@ -20,6 +20,7 @@
 - Terminal-like interactivity
 
 ## About/Home (logo)
+- Add links as btns
 - Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
 - Add icons/logos/images
 - Add headshot
@@ -45,6 +46,7 @@
 - GWC: Co-president
 
 ## Projects (light bulb)
+- Add links as btns
 - Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
 - Add icons/logos/images
 - Add tags (tech type, programming lang, interest categories) to each projects, better for when dropdowns turned into cards
