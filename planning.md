@@ -5,6 +5,7 @@
 - Add short paragraph with general introduction to each page
 - If keeping dropdowns, find way to make cursor pointer on hover
 - Make all btns in each btn group the same size, maybe diff for each group
+- If keeping dropdowns, make summary and marker have background (card-like appearance), but not rest of details
 - Make headings and bolded words diff colors
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
@@ -19,7 +20,7 @@
 - Terminal-like appearance
 - Terminal-like interactivity
 
-## About/Home (logo)
+## ✅ About/Home (logo)
 - Add links as btns
 - Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
 - Add icons/logos/images
@@ -51,7 +52,7 @@
 - Add icons/logos/images
 - Add tags (tech type, programming lang, interest categories) to each projects, better for when dropdowns turned into cards
 
-### TKS
+### ✅ TKS
 Explain TKS/scholarship, explain context of each project
 - AI focus
 - Moonshot project
@@ -93,3 +94,4 @@ Add logo and external link icon to each one, reorder
 ## ✅ Resume (briefcase)
 - Embed PDF of resume
 - Use latest resume version
+- Adapt PDF embed for mobile (later)
