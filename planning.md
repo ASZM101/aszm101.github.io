@@ -55,7 +55,7 @@ Explain TKS/scholarship, explain context of each project
 - Maverick challenge
 
 ### Hackathons
-Explain each event
+Provide description for each hackathon and project
 - Shipwrecked 2025
     - Everythingville
     - Playwright Scrapers
