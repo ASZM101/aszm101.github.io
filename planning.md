@@ -46,6 +46,7 @@
 ## Projects (light bulb)
 - Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
 - Add icons/logos/images
+- Add tags (tech type, programming lang, interest categories) to each projects, better for when dropdowns turned into cards
 
 ### TKS
 Explain TKS/scholarship, explain context of each project
