@@ -11,7 +11,7 @@
         - Secondary: purple hues
     - Dark mode
         - Primary: green hues
-        - Secondary: blue hes
+        - Secondary: blue hues
 - Version of entire website in Spanish
 - Typing animation
 - Uncrypting animation
