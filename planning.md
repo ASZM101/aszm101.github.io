@@ -46,7 +46,7 @@
 - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
 - GWC: Co-president
 
-## Projects (light bulb)
+## ✅ Projects (light bulb)
 - Add links as btns
 - Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
 - Add icons/logos/images
