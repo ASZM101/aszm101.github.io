@@ -2,6 +2,7 @@
 
 ### Extra
 - Make all btns in each btn group the same size, maybe diff for each group
+- Make headings and bolded words diff colors
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
         - Primary: pink hues

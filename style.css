@@ -35,10 +35,6 @@ a {
     display: inline-block;
 }
 
-p b {
-    color: #6E00B8;
-}
-
 body {
     line-height: 1.75;
     background-image: linear-gradient(to bottom right, #FF55D2, #A454FF);
