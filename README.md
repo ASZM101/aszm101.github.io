@@ -25,7 +25,7 @@
 
     ```bash
     git clone https://github.com/ASZM101/aszm101.github.io.git
-    cd aszm101.github.io.git
+    cd aszm101.github.io
     ```
 
 3. Open your file explorer
