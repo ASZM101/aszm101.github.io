@@ -19,7 +19,10 @@ document.querySelector('header').innerHTML = `
 /*** VARIABLE ICONS ***/
 document.querySelectorAll('button.var-icon').forEach(btn => {
     btn.addEventListener('mouseover', () => {
-        btn.querySelector('p').style.color = 'white';
+        p = btn.querySelector('p');
+        if (p) {
+            p.style.color = 'white';
+        }
         btn.querySelectorAll('img.var-icon').forEach(icon => {
             // Before mouseover (original): icon is black
             fullSrc = icon.src.split('/');
@@ -30,7 +33,10 @@ document.querySelectorAll('button.var-icon').forEach(btn => {
         });
     });
     btn.addEventListener('mouseout', () => {
-        btn.querySelector('p').style.color = 'black';
+        p = btn.querySelector('p');
+        if (p) {
+            p.style.color = 'black';
+        }
         btn.querySelectorAll('img.var-icon').forEach(icon => {
             // Before mouseout (on hover): icon is white
             fullSrc = icon.src.split('/');
