@@ -330,20 +330,19 @@ main.contact {
 }
 
 #contact-form {
-    display: fixed !important;
-    top: 100px;
-    left: 100px;
-    width: 100%;;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     height: 100%;
-    z-index: 1000;
+    z-index: 900;
 }
 
 #contact-form img {
-    display: fixed !important;
+    position: fixed;
     bottom: 20px;
     right: 20px;
     opacity: 0.7;
-    z-index: 1000;
     transition: all 0.3s;
 }
 
