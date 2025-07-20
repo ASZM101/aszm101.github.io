@@ -336,13 +336,13 @@ small img.inline, button.inline img {
     z-index: 1;
 }
 
-#contact-form button, #contact-form button:hover, #contact-form button:active {
+/* #contact-form button, #contact-form button:hover, #contact-form button:active {
     margin: 0px !important;
     padding: 0px !important;
     border-radius: 0px;
     background: none;
     box-shadow: none;
-}
+} */
 
 #contact-form img {
     position: fixed;
