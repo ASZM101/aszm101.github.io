@@ -58,7 +58,7 @@ Explain TKS/scholarship, explain context of each project
 - Moonshot project
 - Maverick challenge
 
-### Hackathons
+### ✅ Hackathons
 Provide description for each hackathon and project
 - Shipwrecked 2025
     - Everythingville
