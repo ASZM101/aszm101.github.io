@@ -176,6 +176,10 @@ summary {
     margin: 0;
 }
 
+summary:hover {
+    cursor: pointer;
+}
+
 summary::marker {
     font-size: 25px;
 }
@@ -192,7 +196,7 @@ video, section.video iframe {
     display: block;
     width: 100%;
     height: 315px;
-    margin: 50px auto;
+    margin: 30px auto;
     box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
     border-radius: 12px;
     border: none;
