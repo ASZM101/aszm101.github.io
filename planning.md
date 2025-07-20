@@ -35,13 +35,13 @@
     - App dev: iBudget
     - Data: EduStats
 
-### Musical experience
+### ✅ Musical experience
 - YOLA Symphony 2025
 - HPS Carnegie Hall 2025
 - CRHS varsity orchestra, Midwest
 - ESTX Chamber principal violist, teaching artist
 
-### Extracurriculars
+### ✅ Extracurriculars
 - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
 - GWC: Co-president
 
