@@ -1,6 +1,8 @@
 # Planning
 
 ### Extra
+- Update LinkedIn/resume with any changes made to descriptions
+- If keeping dropdowns, find way to make cursor pointer on hover
 - Make all btns in each btn group the same size, maybe diff for each group
 - Make headings and bolded words diff colors
 - Gradient bkgds, auto detect system preferences
@@ -17,17 +19,19 @@
 - Terminal-like interactivity
 
 ## About/Home (logo)
-Tabs for each section, use icons for now, add headshot
+- Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
+- Add icons/logos/images
+- Add headshot
 
 ### ✅ Technical experience
 - STEME internship
-    - Website Manager
-    - Programmer
-    - Data Analyst
+    - Website
+    - Programming
+    - Data Analytics
 - KWK camps
     - Web dev: iGEN
     - App dev: iBudget
-    - DS: EduStats
+    - Data: EduStats
 
 ### Musical experience
 - YOLA Symphony 2025
@@ -38,18 +42,16 @@ Tabs for each section, use icons for now, add headshot
 ### Extracurriculars
 - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
 - GWC: Co-president
-- XC/track (long-distance)
 
 ## Projects (light bulb)
-Tabs for each section, use icons for now
+- Tabs for each section, dropdowns for now, or could leave dropdowns and animate open/closing
+- Add icons/logos/images
 
 ### TKS
 Explain TKS/scholarship, explain context of each project
 - AI focus
 - Moonshot project
 - Maverick challenge
-- IKEA challenge
-- Explore hackathon
 
 ### Hackathons
 Explain each event

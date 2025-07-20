@@ -69,7 +69,8 @@ button:active {
 }
 
 details {
-    padding: 10px 30px 0px 30px;
+    padding: 0px 30px 0px 30px;
+    margin: 0;
 }
 
 /* Saving for later */
@@ -85,12 +86,21 @@ h1 {
     margin: 22px 0px;
 }
 
-h2, summary::marker {
+h2 {
     font-size: 24px;
+    margin: 0px;
+    padding: 10px 0px;
 }
 
 h3 {
     font-size: 20px;
+    margin: 0px;
+    padding: 10px 0px;
+}
+
+h4 {
+    margin: 0px;
+    padding: 10px 0px;
 }
 
 header {
@@ -162,7 +172,12 @@ small {
 
 summary {
     list-style-position: outside;
-    padding: 0px 0px 10px 20px;
+    padding: 0px 0px 0px 20px;
+    margin: 0;
+}
+
+summary::marker {
+    font-size: 25px;
 }
 
 textarea {
