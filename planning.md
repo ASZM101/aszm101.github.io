@@ -2,7 +2,6 @@
 
 ### Extra
 - Make all btns in each btn group the same size, maybe diff for each group
-- Figure out how to make a tag as large as its child while keeping side margin auto
 - Gradient bkgds, auto detect system preferences
     - Light mode (start here)
         - Primary: pink hues
@@ -17,7 +16,7 @@
 - Terminal-like interactivity
 
 ## About/Home (logo)
-Tabs for each section, use icons for now
+Tabs for each section, use icons for now, add headshot
 
 ### Technical experience
 - STEME internship
@@ -75,7 +74,7 @@ Explain each event
 - [YouTube](https://www.youtube.com/@aszm), with CTA to follow for new videos
 - Embed top videos invidually
 
-## Contact (envelope)
+## ✅ Contact (envelope)
 Add logo and external link icon to each one, reorder
 - [Tally](https://tally.so/r/w77pK2) form, maybe add btn to open/close, though still open on page load
 - [Email](mailto:adrianasofia.zambrano@gmail.com)
@@ -83,6 +82,7 @@ Add logo and external link icon to each one, reorder
 - [GitHub](https://github.com/aszm101)
 - [Cal.com](https://cal.com/adriana-zambrano-pyke96)
 - Discord: adriana_z. (place copy btn next to username, or clicking on Discord icon triggers alert and automatically copies username)
+
 ## ✅ Resume (briefcase)
 - Embed PDF of resume
 - Use latest resume version
