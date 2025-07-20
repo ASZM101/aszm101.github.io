@@ -17,6 +17,8 @@ document.querySelector('header').innerHTML = `
 // `;
 
 /*** VARIABLE ICONS ***/
+
+// Icons inside button tags
 document.querySelectorAll('button.var-icon').forEach(btn => {
     btn.addEventListener('mouseover', () => {
         p = btn.querySelector('p');
@@ -48,7 +50,28 @@ document.querySelectorAll('button.var-icon').forEach(btn => {
     });
 });
 
+// Contact form button
+contactFormIcon = document.querySelector('#contact-form img');
+contactFormIcon.addEventListener('mouseover', () => {
+    // Before mousover (original): icon is white
+    fullSrc = contactFormIcon.src.split('/');
+    oldFile = fullSrc[fullSrc.length - 1];
+    name = oldFile.slice(0, oldFile.indexOf('-'));
+    contactFormIcon.src = `assets/img/${name}-black.png`;
+    // While mouseover (on hover): icon is black
+})
+contactFormIcon.addEventListener('mouseout', () => {
+    // Before mouseout (on hover): icon is black
+    fullSrc = contactFormIcon.src.split('/');
+    oldFile = fullSrc[fullSrc.length - 1];
+    name = oldFile.slice(0, oldFile.indexOf('-'));
+    contactFormIcon.src = `assets/img/${name}-white.png`;
+    // While mouseout (original): icon is white
+})
+
 /*** COPY BUTTONS ***/
+
+// Discord username
 document.querySelector('button.discord').addEventListener('click', (e) => {
     const username = document.querySelector('#discord-username');
     username.select();
