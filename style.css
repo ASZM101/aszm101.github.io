@@ -285,7 +285,7 @@ div.centered-link {
 }
 
 div.li img.inline.line-start {
-    width: 30px !important;
+    height: 30px !important;
 }
 
 iframe.full {
@@ -327,6 +327,12 @@ img.inline.line-start {
 
 img.inline.line-end {
     margin: 0 0 0 20px !important;
+}
+
+img.inline.text {
+    height: 25px !important;
+    margin: 5px 0px !important;
+    padding: 0 !important;
 }
 
 p.btn {
