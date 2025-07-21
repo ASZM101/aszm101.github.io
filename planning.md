@@ -25,18 +25,20 @@
     - Create website specifically for CR GWC and add to about page
 
 ### About
-- Add icons/logos to btns
+- Remove left padding for summary and details, just leave left padding for marker
+- Make details have card-like appearance
+- Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
 - Turn dropdowns into tabs with "cards"
 
 ### Projects
 - Add icons/logos to btns
+- Remove left padding for summary and details, just leave left padding for marker
+- Make details have card-like appearance
+- Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)
-- If keeping dropdowns:
-    - Animate open/closing details
-    - Make summary have card-like appearance, but not rest of details
 - Miscellaneous projects:
     - CRJH orchestra website (update first, contact Ms. Vu for udpated info)
     - ByBrandt (once MVP English version done)

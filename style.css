@@ -330,7 +330,6 @@ img.inline.line-end {
 }
 
 img.inline.text {
-    height: 25px !important;
     margin: 5px 0px !important;
     padding: 0 !important;
 }
