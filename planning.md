@@ -5,16 +5,11 @@
 ### General
 - Make all btns in each btn group the same size, maybe diff for each group
 - Version of entire website in Spanish, add dropdown in/near header to switch between languages
-- Add short paragraph with general introduction and possibly image to each page
-- Add scrolling animation, elements appear as user scrolls
+- Add scrolling animation that makes elements appear as user scrolls
 - Make headings and bolded words diff colors
 - Auto detect system prefs for gradient bkgds
-    - Light mode
-        - Primary: pink hues
-        - Secondary: purple hues
-    - Dark mode
-        - Primary: green hues
-        - Secondary: blue hues
+    - Light mode: lighter shades, normal colors
+    - Dark mode: darker shades, inverted colors
 - Animations
     - Typing animation
     - Uncrypting animation
@@ -25,15 +20,13 @@
     - Create website specifically for CR GWC and add to about page
 
 ### About
-- Make details have card-like appearance
-- Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
+- Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 
 ### Projects
-- Make details have card-like appearance
-- Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
+- Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)
 - Miscellaneous projects:
@@ -41,7 +34,6 @@
     - ByBrandt (once MVP English version done)
 
 ### Articles
-- Make "cards" for custom Medium embeds
 - Maybe remove page from nav for now? Not sure if enough quality videos yet
 
 ### Videos
