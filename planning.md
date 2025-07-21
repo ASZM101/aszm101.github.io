@@ -26,6 +26,7 @@
 
 ### Projects
 - Add imgs to each section, possibly horizontal galleries with arrows
+- Add image under heading and above dropdowns
 - Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)
@@ -51,7 +52,7 @@
 - Add links as btns
 - Add headshot
 
-#### ✅ Technical experience
+#### Technical experience
 - STEME internship
     - Website
     - Programming
@@ -61,26 +62,26 @@
     - App dev: iBudget
     - Data: EduStats
 
-#### ✅ Musical experience
+#### Musical experience
 - YOLA Symphony 2025
 - HPS Carnegie Hall 2025
 - CRHS varsity orchestra, Midwest
 - ESTX Chamber principal violist, teaching artist
 
-#### ✅ Extracurriculars
+#### Extracurriculars
 - TSA: national finalist with FTE, regional events (coding, software, video game, webmaster)
 - GWC: Co-president
 
 ### ✅ Projects (light bulb)
 Add links as btns
 
-#### ✅ TKS
+#### TKS
 Explain TKS/scholarship, explain context of each project
 - AI focus
 - Moonshot project
 - Maverick challenge
 
-#### ✅ Hackathons
+#### Hackathons
 Provide description for each hackathon and project
 - Shipwrecked 2025
     - Everythingville

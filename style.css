@@ -355,6 +355,13 @@ small img.inline, button.inline img {
 .article {
     padding: 20px;
     background: white;
+}
+
+.article div.text > * {
+    color: black;
+}
+
+.card {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -362,21 +369,16 @@ small img.inline, button.inline img {
     justify-content: center;
 }
 
-.article .text {
+.card div.text {
     width: 300px;
-    max-width: 100%;
     padding: 0px 20px;
 }
 
-.article .text > * {
-    color: black;
-}
-
-.article img:not(button img) {
+.card img:not(button img) {
     width: 300px;
-    max-width: 100%;
     display: block;
-    margin: 20px auto;
+    margin: 0 auto;
+    padding: 30px 10px;
 }
 
 .dropdown, .article {
@@ -469,4 +471,12 @@ small img.inline, button.inline img {
 
 #nav-logo img, #contact-form img {
     height: 50px;
+}
+
+/*** MEDIA QUERIES ***/
+
+@media screen and (max-width: 763px) {
+    .card div.text, .card img:not(button img) {
+        width: 100%;
+    }
 }
