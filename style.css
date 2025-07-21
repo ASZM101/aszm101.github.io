@@ -217,6 +217,7 @@ body, html {
     min-height: 100%;
     width: 100%;
     overscroll-behavior: none;
+    overflow-x: hidden;
 }
 
 body, h1, h2, h3, h4, p, a, button, input, select, textarea, b, i {
@@ -378,7 +379,7 @@ small img.inline, button.inline img {
     width: 300px;
     display: block;
     margin: 0 auto;
-    padding: 30px 10px;
+    padding: 30px 20px;
 }
 
 .dropdown, .article {
@@ -475,8 +476,8 @@ small img.inline, button.inline img {
 
 /*** MEDIA QUERIES ***/
 
-@media screen and (max-width: 763px) {
+@media screen and (max-width: 850px) {
     .card div.text, .card img:not(button img) {
-        width: 100%;
+        width: calc(100% - 40px);
     }
 }
