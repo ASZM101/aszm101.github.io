@@ -44,7 +44,7 @@
 ### Videos
 - Maybe remove page from nav for now? Not sure if enough quality videos yet
 
-#### Contact
+### Contact
 - Create social media accounts and add here
 
 ### Resume
