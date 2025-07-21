@@ -15,18 +15,24 @@
     - Uncrypting animation
     - Terminal-like appearance/interactivity
 - Updates (later)
+    - Upload pictures from YOLA
     - Update LinkedIn/resume with any changes made to descriptions
     - Update Midwest link once URL changes to 2025 archive
+    - Create focus video and add
     - Create website specifically for CR GWC and add to about page
 
 ### About
-- Add imgs to each section, possibly horizontal galleries with arrows
+- Add imgs to each section
+- Add horizontal galleries with arrows for imgs
+- Add imgs of each KWK project
 - Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 
 ### Projects
-- Add imgs to each section, possibly horizontal galleries with arrows
-- Add image under heading and above dropdowns
+- Add imgs to each section
+- Add horizontal galleries with arrows for imgs
+- Add imgs of each hackathon project
+- Add img under heading and above dropdowns
 - Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)

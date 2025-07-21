@@ -199,7 +199,7 @@ textarea {
     resize: vertical;
 }
 
-video, section.video iframe {
+video, section.video iframe, section.slides iframe {
     display: block;
     width: 100%;
     height: 315px;
@@ -228,7 +228,7 @@ body, h1, h2, h3, h4, p, b, i {
     color: white;
 }
 
-button:hover, .dropdown:hover, .article:hover, video:hover, section.video iframe:hover {
+button:hover, .dropdown:hover, .article:hover, video:hover, section.video iframe:hover, section.slides iframe:hover {
     box-shadow: 2px 4px 3px 2px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
     transition: all 0.3s;
