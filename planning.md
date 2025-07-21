@@ -22,17 +22,15 @@
     - Create website specifically for CR GWC and add to about page
 
 ### About
-- Add imgs to each section
 - Add horizontal galleries with arrows for imgs
 - Add imgs of each KWK project
 - Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 
 ### Projects
-- Add imgs to each section
 - Add horizontal galleries with arrows for imgs
 - Add imgs of each hackathon project
-- Add img under heading and above dropdowns
+- Add img under heading but above dropdowns
 - Animate open/closing details
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)
