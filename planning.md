@@ -25,15 +25,12 @@
     - Create website specifically for CR GWC and add to about page
 
 ### About
-- Remove padding/margin for summary and details, just leave for marker
 - Make details have card-like appearance
 - Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
 - Turn dropdowns into tabs with "cards"
 
 ### Projects
-- Add icons/logos to btns
-- Remove padding/margin for summary and details, just leave for marker
 - Make details have card-like appearance
 - Animate open/closing details
 - Add imgs to each section, possibly horizontal galleries with arrows
