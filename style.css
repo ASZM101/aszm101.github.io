@@ -73,6 +73,10 @@ details {
     margin: 0;
 }
 
+details > *:not(summary, div) {
+    padding: 0px 20px;
+}
+
 /* Saving for later */
 /* footer {
     display: flex;
@@ -101,10 +105,6 @@ h3 {
 h4 {
     margin: 0px;
     padding: 10px 0px;
-}
-
-summary h4 {
-    padding: 0px 0px 0px 20px;
 }
 
 header {
@@ -177,7 +177,7 @@ small {
 summary {
     list-style-position: outside;
     padding: 0;
-    margin: 0;
+    margin: 0px 40px;
 }
 
 summary:hover {
@@ -186,6 +186,10 @@ summary:hover {
 
 summary::marker {
     font-size: 25px;
+}
+
+summary h4 {
+    padding-left: 20px;
 }
 
 textarea {
@@ -246,7 +250,7 @@ input, select {
 input, select, textarea {
     box-shadow: 0 2px 14px rgba(0, 0, 0, 0.2);
     border: 1px solid #dddddd;
-    border-radius: 10px;
+    border-radius: 12px;
     color: black;
 }
 
@@ -285,7 +289,7 @@ div.centered-link {
     display: block;
     width: fit-content;
     margin: 0 auto;
-    padding: 0;
+    padding: 0px 20px;
 }
 
 div.li img.inline.line-start {
@@ -348,6 +352,13 @@ small img.inline, button.inline img {
     height: 24px;
 }
 
+.dropdown {
+    border-radius: 12px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
 .hidden {
     display: none;
 }
@@ -356,6 +367,21 @@ small img.inline, button.inline img {
     display: inline;
     margin: 0px 5px !important;
     vertical-align: middle;
+}
+
+.level1 {
+    background: #A454FF;
+    border: 1px solid #A454FF;
+}
+
+.level2 {
+    background: #892ADC;
+    border: 1px solid #892ADC;
+}
+
+.level3 {
+    background: #6E00B8;
+    border: 1px solid #6E00B8;
 }
 
 /*** IDS ***/
