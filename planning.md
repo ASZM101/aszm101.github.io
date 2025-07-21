@@ -3,6 +3,7 @@
 ## Extra
 
 ### General
+- Figure out why headings in summary have uneven line heights on mobile
 - Make all btns in each btn group the same size, maybe diff for each group
 - Version of entire website in Spanish, add dropdown in/near header to switch between languages
 - Add scrolling animation that makes elements appear as user scrolls
