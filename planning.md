@@ -90,8 +90,9 @@ Explain TKS/scholarship, explain context of each project
 Provide description for each hackathon and project
 - Shipwrecked 2025
     - Everythingville
+    - Memory Matching
     - Playwright Scrapers
-    - Memory Matching (once MVP done)
+    - Personal website
 - Ascend 2024: Mechazilla the Game
 - TAMUhack 2024: Financy
 
