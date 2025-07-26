@@ -286,7 +286,7 @@ div.centered-link {
     display: block;
     width: fit-content;
     margin: 0 auto;
-    padding: 0px 20px;
+    padding: 0px 10px;
 }
 
 div.li img.inline.line-start {
@@ -359,7 +359,7 @@ small img.inline, button.inline img {
 }
 
 .btns div.centered-link, .btns div.centered-link a, .btns button, .btns div.btn {
-    width: calc(100% - 20px) !important;
+    width: calc(100% - 10px) !important;
 }
 
 .card {
