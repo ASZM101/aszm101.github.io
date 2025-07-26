@@ -187,10 +187,6 @@ summary::marker {
     font-size: 25px;
 }
 
-summary h4 {
-    padding-left: 20px;
-}
-
 textarea {
     width: calc(100% - 30px);
     height: 200px;
