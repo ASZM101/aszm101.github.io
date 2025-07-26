@@ -28,10 +28,6 @@
     font-style: italic;
 }
 
-div.centered-link, div.centered-link a, button, div.btn {
-    width: calc(100% - 20px) !important;
-}
-
 /*** TAGS ***/
 
 a {
@@ -331,7 +327,7 @@ img.inline {
 }
 
 img.inline.line-start {
-    margin: 0 20px 0 0 !important;
+    margin: 0 20px 0 0px !important;
 }
 
 img.inline.line-end {
@@ -360,6 +356,10 @@ small img.inline, button.inline img {
 
 .article div.text > * {
     color: black;
+}
+
+.btns div.centered-link, .btns div.centered-link a, .btns button, .btns div.btn {
+    width: calc(100% - 20px) !important;
 }
 
 .card {
