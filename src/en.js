@@ -8,6 +8,7 @@ document.querySelector('header.en').innerHTML = `
         <a href="videos.html"><img src="assets/img/videos.png" alt="Video camera" title="Videos"></a>
         <a href="contact.html"><img src="assets/img/contact.png" alt="Open envelope" title="Contact"></a>
         <a href="resume.html"><img src="assets/img/resume.png" alt="Briefcase" title="Resume"></a>
+        <a href="es/inicio.html"><img src="assets/img/ven.png" alt="Flag of Venezuela" title="Español"></a>
     </nav>
 `;
 

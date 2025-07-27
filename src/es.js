@@ -8,6 +8,7 @@ document.querySelector('header.es').innerHTML = `
         <a href="videos.html"><img src="../assets/img/videos.png" alt="Cámara de video" title="Videos"></a>
         <a href="contacto.html"><img src="../assets/img/contact.png" alt="Sobre abierto" title="Contacto"></a>
         <a href="curriculum.html"><img src="../assets/img/resume.png" alt="Maletín" title="Currículum"></a>
+        <a href="../index.html"><img src="../assets/img/usa.png" alt="Bandera de los Estados Unidos" title="English"></a>
     </nav>
 `;
 

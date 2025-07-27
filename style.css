@@ -123,7 +123,7 @@ header > * {
 }
 
 header img {
-    height: 35px;
+    height: 30px;
     opacity: 0.7;
     transition: all 0.3s;
 }
@@ -448,6 +448,7 @@ small img.inline, button.inline img {
     bottom: 20px;
     right: 20px;
     opacity: 0.7;
+    height: 50px;
     transition: all 0.3s;
 }
 
@@ -470,8 +471,8 @@ small img.inline, button.inline img {
     left: 20px;
 }
 
-#nav-logo img, #contact-form img {
-    height: 50px;
+#nav-logo img {
+    height: 40px;
 }
 
 /*** MEDIA QUERIES ***/
