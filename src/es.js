@@ -58,7 +58,7 @@ if (document.querySelector('#contact-form img')) {
         fullSrc = contactFormIcon.src.split('/');
         oldFile = fullSrc[fullSrc.length - 1];
         name = oldFile.slice(0, oldFile.indexOf('-'));
-        contactFormIcon.src = `assets/img/${name}-black.png`;
+        contactFormIcon.src = `../assets/img/${name}-black.png`;
         // While mouseover (on hover): icon is black
     });
     contactFormIcon.addEventListener('mouseout', () => {
@@ -66,7 +66,7 @@ if (document.querySelector('#contact-form img')) {
         fullSrc = contactFormIcon.src.split('/');
         oldFile = fullSrc[fullSrc.length - 1];
         name = oldFile.slice(0, oldFile.indexOf('-'));
-        contactFormIcon.src = `assets/img/${name}-white.png`;
+        contactFormIcon.src = `../assets/img/${name}-white.png`;
         // While mouseout (original): icon is white
     });
 };
