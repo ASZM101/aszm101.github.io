@@ -131,6 +131,7 @@ header img {
 header img:hover {
     opacity: 1;
     transform: scale(1.2);
+    will-change: transform;
     transition: all 0.3s;
 }
 
@@ -227,6 +228,7 @@ body, h1, h2, h3, h4, p, b, i {
 button:hover, .dropdown:hover, .article:hover, video:hover, section.video iframe:hover, section.slides iframe:hover {
     box-shadow: 2px 4px 3px 2px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    will-change: transform;
     transition: all 0.3s;
 }
 
@@ -456,6 +458,7 @@ small img.inline, button.inline img {
     opacity: 1;
     cursor: pointer;
     transform: scale(1.2);
+    will-change: transform;
     transition: 0.3s;
 }
 
