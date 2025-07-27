@@ -3,7 +3,6 @@
 ## Extra
 
 ### General
-- Version of entire website in Spanish, add dropdown in/near header to switch between languages
 - Figure out why headings in summary have uneven line heights on mobile
 - Add scrolling animation that makes elements appear as user scrolls
 - Make headings and bolded words diff colors
