@@ -35,13 +35,14 @@
 - Turn dropdowns into tabs with "cards"
 - Add btn-like tags for each project (progrmaming languages, interest categories)
 - Miscellaneous projects:
-    - CRJH orchestra website (update first, contact Ms. Vu for udpated info)
+    - CRJH orchestra website (update first, contact Ms. Vu for udpated info, migrate to GitHub org with orch email)
     - ByBrandt (once MVP English version done)
 
 ### Articles
 - Maybe remove page from nav for now? Not sure if enough quality videos yet
 
 ### Videos
+- Add concert and solo recordings
 - Maybe remove page from nav for now? Not sure if enough quality videos yet
 
 ### Contact
