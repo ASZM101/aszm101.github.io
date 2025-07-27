@@ -1,5 +1,5 @@
 /*** HEADER ***/
-document.querySelector('header').innerHTML = `
+document.querySelector('header.en').innerHTML = `
     <a href="index.html" id="nav-logo"><img src="assets/img/logo-shadow.png" alt="Logo" title="Home"></a>
     <nav>
         <a href="projects.html"><img src="assets/img/projects.png" alt="Light bulb" title="Projects"></a>
@@ -72,7 +72,7 @@ contactFormIcon.addEventListener('mouseout', () => {
 /*** COPY BUTTONS ***/
 
 // Discord username
-document.querySelector('button.discord').addEventListener('click', (e) => {
+document.querySelector('button.discord.en').addEventListener('click', (e) => {
     const username = document.querySelector('#discord-username');
     username.select();
     navigator.clipboard.writeText(username.value);
